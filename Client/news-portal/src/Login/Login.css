@@ -1,0 +1,16 @@
+.form-check-input[type="checkbox"] {
+  margin-right: 0px;
+}
+
+.fa-key {
+  color: white;
+}
+
+.login{
+    background-image: url('./login-background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1366px;
+    height: 663px;
+   opacity: 0.8;
+}
